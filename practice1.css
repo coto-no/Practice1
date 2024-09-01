@@ -115,6 +115,10 @@ section h2 {
     margin: auto;
 }
 
+.section-about__profile__introduce p {
+    text-align: left;
+}
+
 /*--------- section-about-pc ---------*/
 @media(min-width: 960px) {
     .section-about__profile {
