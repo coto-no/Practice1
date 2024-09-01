@@ -171,7 +171,6 @@ section h2 {
     .section-bicycle-images {
         display: flex;
         justify-content: center;
-        margin-top: 70px;
         gap: 20px;
         margin: 70px 200px 0;
     }
