@@ -120,7 +120,6 @@ section h2 {
     .section-about__profile {
         display: flex;
         justify-content: center;
-        margin-top: 70px;
     }
 
     .section-about__profile__introduce {
@@ -172,7 +171,7 @@ section h2 {
         display: flex;
         justify-content: center;
         gap: 20px;
-        margin: 70px 200px 0;
+        margin: 0 200px;
     }
     .section-bicycle-image {
         width: 100%;
